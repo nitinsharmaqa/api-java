@@ -8,5 +8,6 @@ REST Assured checks against Restful Booker. Java 21, Maven, JUnit 5.
 - Auth failure: wrong password returns no token and reason "Bad credentials"
 
 ## Run
+
 ```bash
 mvn test
